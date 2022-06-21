@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "55578050450",
+    "project_id": "rozgaar-kashmir",
+    "storage_bucket": "rozgaar-kashmir.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55578050450:android:5aeb42a033a9a828becb4b",
+        "android_client_info": {
+          "package_name": "com.example.rozgaar_kashmir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55578050450-t56udnpe297sl5qmkukjnf3mu9oc3i81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAskzNhTcr-rlVtOKa4oGF-fY109nlIXvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55578050450-t56udnpe297sl5qmkukjnf3mu9oc3i81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
